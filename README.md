@@ -1,5 +1,5 @@
+<!-- Banner -->
 ![My Banner](https://github.com/turtleeG/turtleeG/blob/main/Github%20LinkedIn%20Banner.png)
-
 ![Python Badge](https://img.shields.io/badge/PYTHON-darkblue?style=flat-square&logo=python&logoColor=white&logoSize=auto&labelColor=%233776AB&color=%233776AB
 )
 ![JavaScript Badge](https://img.shields.io/badge/JAVASCRIPT-yellow?style=flat-square&logo=javascript&logoColor=%23000000&logoSize=auto&labelColor=%23F7DF1E&color=%23F7DF1E)
@@ -7,16 +7,23 @@
 ![Html5 Badge](https://img.shields.io/badge/HTML5-red?style=flat-square&logo=html5&logoColor=white&logoSize=auto&labelColor=%23E34F26&color=%23E34F26)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white&logoSize=auto&labelColor=%231572B6&color=%231572B6)
 
-<!-- Blue Thick Line -->
-<hr style="border: none; height: 5px; margin-top: 20px; margin-bottom: 20px;" />
+<!-- Introduction -->
+Hi, I'm GL(Gaeun Lee), a junior at UIC majoring in Computer Science and Design. I'm passionate about creating innovative solutions and designing user interfaces. An interesting fact about me is that I can memorize logos just at a glance.
 
-Hi, I'm GL, a UIC student majoring in Computer Science and Design. I'm passionate about creating innovative solutions and designing user interfaces.
+<!-- Thick Line -->
+<hr style="border: none;" />
 
-## Projects
+### Projects
 **[Notion Clock Widget](https://github.com/turtleeG/notionClockWidget)**  
 A minimalistic clock widget for Notion.
 
-## Contact
-**Linkedin:** www.linkedin.com/in/gaeun-lee-41466a266  
-**Gmail:** glee94@uic.edu
+<!-- Thick Line -->
+<hr style="border: none;" />
 
+<!-- Contact -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/gaeun-lee-41466a266">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <img src="https://img.shields.io/badge/glee94%40uic.edu-red?style=flat-square&logo=gmail&logoColor=white&logoSize=auto&labelColor=black&color=black" alt="Gmail Badge">
+</div>
