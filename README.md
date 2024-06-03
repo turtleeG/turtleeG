@@ -18,5 +18,5 @@ A minimalistic clock widget for Notion.
 
 ## Contact
 **Linkedin:** www.linkedin.com/in/gaeun-lee-41466a266  
-**Gmail:** gaeunleedubai@gmail.com
+**Gmail:** glee94@uic.edu
 
