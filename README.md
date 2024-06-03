@@ -13,7 +13,7 @@ Hi, I'm GL(Gaeun Lee), a junior at UIC majoring in Computer Science and Design. 
 <!-- Thick Line -->
 <hr style="border: none;" />
 
-### Projects
+### Projects 🐋
 **[Notion Clock Widget](https://github.com/turtleeG/notionClockWidget)**  
 A minimalistic clock widget for Notion.
 
