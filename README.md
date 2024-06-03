@@ -7,3 +7,16 @@
 ![Html5 Badge](https://img.shields.io/badge/HTML5-red?style=flat-square&logo=html5&logoColor=white&logoSize=auto&labelColor=%23E34F26&color=%23E34F26)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white&logoSize=auto&labelColor=%231572B6&color=%231572B6)
 
+<!-- Blue Thick Line -->
+<hr style="border: none; height: 5px; margin-top: 20px; margin-bottom: 20px;" />
+
+Hi, I'm GL, a UIC student majoring in Computer Science and Design. I'm passionate about creating innovative solutions and designing user interfaces.
+
+## Projects
+**[Notion Clock Widget](https://github.com/turtleeG/notionClockWidget)**  
+A minimalistic clock widget for Notion.
+
+## Contact
+**Linkedin:** www.linkedin.com/in/gaeun-lee-41466a266  
+**Gmail:** gaeunleedubai@gmail.com
+
