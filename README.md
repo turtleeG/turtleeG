@@ -6,6 +6,7 @@
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-darkblue?style=flat-square&logo=cplusplus&logoColor=white&logoSize=auto&labelColor=%2300599C&color=%2300599C)
 ![Html5 Badge](https://img.shields.io/badge/HTML5-red?style=flat-square&logo=html5&logoColor=white&logoSize=auto&labelColor=%23E34F26&color=%23E34F26)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white&logoSize=auto&labelColor=%231572B6&color=%231572B6)
+<img src="https://github.com/turtleeG/turtleeG/blob/main/loading.gif" width="20" />
 
 <!-- Introduction -->
 Hi, I'm GL(Gaeun Lee), a junior at UIC majoring in Computer Science and Design. I'm passionate about creating innovative solutions and designing user interfaces. An interesting fact about me is that I can memorize logos just at a glance.
@@ -16,6 +17,8 @@ Hi, I'm GL(Gaeun Lee), a junior at UIC majoring in Computer Science and Design. 
 ### Projects 🐋
 **[Notion Clock Widget](https://github.com/turtleeG/notionClockWidget)**  
 A minimalistic clock widget for Notion.
+
+<img src="https://github.com/turtleeG/turtleeG/blob/main/loading.gif" width="30" />
 
 <!-- Thick Line -->
 <hr style="border: none;" />
