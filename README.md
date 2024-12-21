@@ -9,8 +9,7 @@
 <img src="https://github.com/turtleeG/turtleeG/blob/main/loading.gif" width="20" />
 
 <!-- Introduction -->
-Hi, I'm GL(Gaeun Lee), a junior at UIC majoring in Computer Science and Design. I'm passionate about creating innovative solutions and designing user interfaces. An interesting fact about me is that I can memorize logos just at a glance.
-
+Hi, I'm GL (Gaeun Lee), a junior at UIC majoring in Computer Science and Design. I'm passionate about creating innovative solutions and designing posters. My biggest interest is in Human and Computer Interaction Research.
 <!-- Thick Line -->
 <hr style="border: none;" />
 
